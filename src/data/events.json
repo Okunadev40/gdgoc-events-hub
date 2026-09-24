@@ -1,0 +1,102 @@
+[
+  {
+    "id": "1",
+    "title": "Intro to React: Build Your First Component",
+    "date": "2026-10-03T10:00:00+01:00",
+    "category": "Web",
+    "venue": "Computer Science Lab, Bowen University",
+    "description": "A hands-on beginner session on components, props, and state.",
+    "details": "Bring your laptop with Node.js installed. We'll build a small interactive page from scratch and deploy it before the session ends. No prior React experience needed.",
+    "going": 34
+  },
+  {
+    "id": "2",
+    "title": "Flutter Study Jam",
+    "date": "2026-10-10T11:00:00+01:00",
+    "category": "Mobile",
+    "venue": "Lecture Theatre 2",
+    "description": "Build a simple cross-platform mobile app with Flutter.",
+    "details": "We'll walk through widgets, layouts, and navigation, then build a small app together. Android Studio or VS Code with Flutter installed is recommended.",
+    "going": 27
+  },
+  {
+    "id": "3",
+    "title": "Cloud Study Jam: Deploying on Google Cloud",
+    "date": "2026-10-17T10:00:00+01:00",
+    "category": "Cloud",
+    "venue": "ICT Centre",
+    "description": "Deploy your first app to the cloud, step by step.",
+    "details": "A guided lab covering cloud basics, hosting a small web app, and understanding how cloud services are billed. Free-tier accounts are enough for everything we do.",
+    "going": 41
+  },
+  {
+    "id": "4",
+    "title": "Getting Started with the Gemini API",
+    "date": "2026-10-24T14:00:00+01:00",
+    "category": "AI/ML",
+    "venue": "Computer Science Lab, Bowen University",
+    "description": "Add AI features to a small app using a hosted model API.",
+    "details": "Learn how to write good prompts, call a model from JavaScript, and handle responses safely. We'll finish with a tiny AI-powered tool you can extend on your own.",
+    "going": 52
+  },
+  {
+    "id": "5",
+    "title": "UI/UX Design Sprint",
+    "date": "2026-10-31T10:00:00+01:00",
+    "category": "Design",
+    "venue": "Innovation Hub",
+    "description": "Go from idea to clickable prototype in one afternoon.",
+    "details": "Teams of three or four will pick a problem, sketch solutions, and build a Figma prototype. Bring ideas; we'll bring the structure and feedback.",
+    "going": 19
+  },
+  {
+    "id": "6",
+    "title": "Breaking into Tech: Internship Panel",
+    "date": "2026-11-07T15:00:00+01:00",
+    "category": "Career",
+    "venue": "Main Auditorium",
+    "description": "Students and alumni share how they landed tech internships.",
+    "details": "Hear real stories, portfolio tips, and interview advice, followed by an open Q&A. A good session if you're just starting to apply.",
+    "going": 88
+  },
+  {
+    "id": "7",
+    "title": "Git & GitHub Workshop",
+    "date": "2026-11-14T10:00:00+01:00",
+    "category": "Web",
+    "venue": "Computer Science Lab, Bowen University",
+    "description": "Version control essentials every developer needs.",
+    "details": "Learn commits, branches, pull requests, and how to collaborate without breaking each other's code. We'll finish by publishing a project to GitHub Pages.",
+    "going": 46
+  },
+  {
+    "id": "8",
+    "title": "Android Basics with Kotlin",
+    "date": "2026-11-21T11:00:00+01:00",
+    "category": "Mobile",
+    "venue": "Lecture Theatre 2",
+    "description": "Write and run your first native Android app.",
+    "details": "A gentle introduction to Kotlin syntax, activities, and layouts using Android Studio. Emulators can be slow, so bring a physical Android phone if you have one.",
+    "going": 23
+  },
+  {
+    "id": "9",
+    "title": "GDGoC Welcome Mixer",
+    "date": "2026-09-12T16:00:00+01:00",
+    "category": "Career",
+    "venue": "Student Centre",
+    "description": "Meet the new team and other tech-curious students.",
+    "details": "An informal kickoff for the new session: meet the leads, hear what's planned, and find people to build with.",
+    "going": 63
+  },
+  {
+    "id": "10",
+    "title": "HTML & CSS Bootcamp",
+    "date": "2026-09-05T10:00:00+01:00",
+    "category": "Web",
+    "venue": "Computer Science Lab, Bowen University",
+    "description": "Build and style a responsive web page from zero.",
+    "details": "A beginner-friendly bootcamp covering semantic HTML, the box model, flexbox, and responsive layouts. Everyone left with a finished personal page.",
+    "going": 58
+  }
+]
