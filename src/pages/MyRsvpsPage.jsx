@@ -40,7 +40,7 @@ export default function MyRsvpsPage() {
         <p className="mt-2 text-slate-600 dark:text-slate-400">
           Events you RSVP to will show up here.
         </p>
-        <Link to="/" className="mt-4 inline-block text-primary underline">
+        <Link to="/" className="mt-4 inline-block text-primary dark:text-blue-400 underline">
           Browse events
         </Link>
       </div>
@@ -68,7 +68,7 @@ export default function MyRsvpsPage() {
                   <h2 className="font-semibold">
                     <Link
                       to={`/events/${event.id}`}
-                      className="text-primary hover:underline focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-primary"
+                      className="text-primary dark:text-blue-400 hover:underline focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-primary"
                     >
                       {event.title}
                     </Link>

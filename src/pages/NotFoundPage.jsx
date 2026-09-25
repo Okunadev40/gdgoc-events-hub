@@ -7,7 +7,7 @@ export default function NotFoundPage() {
       <p className="mt-2 text-slate-600 dark:text-slate-400">
         That page doesn't exist.
       </p>
-      <Link to="/" className="mt-4 inline-block text-primary underline">
+      <Link to="/" className="mt-4 inline-block text-primary dark:text-blue-400 underline">
         Back to events
       </Link>
     </div>
