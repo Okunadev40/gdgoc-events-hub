@@ -3,9 +3,9 @@ import ThemeToggle from "./ThemeToggle";
 
 const linkClass = ({ isActive }) =>
   `rounded-md px-3 py-2 text-sm font-medium
-   focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-primary ${
+   focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-blue-600 ${
      isActive
-       ? "bg-blue-100 text-blue-800 dark:bg-blue-900/40 dark:text-blue-300"
+       ? "bg-blue-100 text-blue-800"
        : "text-slate-700 hover:text-slate-900 dark:text-slate-200 dark:hover:text-white"
    }`;
 
@@ -15,7 +15,7 @@ export default function Header() {
       <div className="mx-auto flex w-full max-w-6xl items-center justify-between gap-2 px-4 py-2 sm:px-6">
         <Link
           to="/"
-          className="text-base font-bold text-primary dark:text-blue-400 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-primary sm:text-lg"
+          className="text-base font-bold text-blue-800 dark:text-blue-300 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-blue-600 sm:text-lg"
         >
           GDGoC Bowen Events
         </Link>
